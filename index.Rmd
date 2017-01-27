@@ -1,6 +1,6 @@
 ---
 title: "IODS course project"
-author: "Robin"
+author: "Eddie Runkeball"
 output:
   html_document:
     theme: cosmo
